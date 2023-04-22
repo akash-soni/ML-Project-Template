@@ -4,4 +4,6 @@ pandas
 numpy
 PyYAML
 seaborn
--e . 
+mkdocs-material
+### local packages -
+ -e . # << uncomment this to install from setup.py
